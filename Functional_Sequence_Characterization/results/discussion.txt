@@ -1,0 +1,3 @@
+DISCUSSION
+
+The sequence showed very high similarity to known enzymes from Bacillus species. The presence of the PRK07671 conserved catalytic domain further supports its enzymatic role. The protein likely participates in the reverse transsulfuration pathway, which is essential for sulfur metabolism in bacteria. Computational tools such as BLAST and CDD provided strong evidence for functional annotation without experimental validation.

@@ -1,0 +1,3 @@
+CONCLUSION
+
+In-silico analysis successfully characterized a hypothetical protein using sequence analysis and homology-based annotation. The protein was predicted to be a cystathionine gamma-lyase/homocysteine desulfhydrase enzyme involved in sulfur metabolism in Bacillus species. This study demonstrates the power of bioinformatics tools for functional prediction of uncharacterized proteins.

@@ -1,0 +1,13 @@
+Functional Annotation of the Query Protein
+
+The BLASTp analysis revealed that the query protein sequence shows very high similarity with bifunctional cystathionine gamma-lyase / homocysteine desulfhydrase proteins from Bacillus species.
+
+Most of the top hits showed percentage identity greater than 99% and E-value of 0.0, indicating extremely strong sequence similarity. The protein lengths were also nearly identical, supporting that these proteins are homologs.
+
+These proteins belong to the pyridoxal phosphate (PLP)-dependent enzyme family involved in sulfur amino acid metabolism.
+
+Biological Function Prediction:
+Based on homology, the query protein is predicted to function as a cystathionine gamma-lyase enzyme. This enzyme participates in methionine and cysteine metabolism by catalyzing the conversion of cystathionine into cysteine, ammonia, and alpha-ketobutyrate.
+
+Conclusion:
+The high sequence similarity and conserved functional annotation strongly suggest that the query hypothetical protein is a sulfur metabolism enzyme in Bacillus species.

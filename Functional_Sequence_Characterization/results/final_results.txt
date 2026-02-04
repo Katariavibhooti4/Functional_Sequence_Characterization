@@ -1,0 +1,16 @@
+RESULTS
+
+1. Sequence Retrieval
+A hypothetical protein (WP_003229810.1) from Bacillus species was retrieved from the NCBI database. The sequence length was 379 amino acids.
+
+2. Sequence Quality Analysis
+Biopython analysis showed a normal amino acid composition and confirmed that the sequence is biologically valid.
+
+3. Homology Search (BLASTp)
+BLASTp analysis showed 99–100% similarity with bifunctional cystathionine gamma-lyase / homocysteine desulfhydrase proteins from Bacillus species.
+
+4. Conserved Domain Analysis
+CDD search identified domain PRK07671 belonging to the AAT_I superfamily, characteristic of PLP-dependent enzymes involved in sulfur amino acid metabolism.
+
+5. Functional Prediction
+The protein is predicted to function as a cystathionine gamma-lyase/homocysteine desulfhydrase enzyme involved in bacterial sulfur metabolism.

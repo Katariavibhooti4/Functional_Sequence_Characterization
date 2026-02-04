@@ -1,0 +1,23 @@
+Conserved Domain Analysis
+
+Tool Used: NCBI Conserved Domain Database (CDD)
+
+Query Protein: WP_003229810.1
+Organism: Bacillus species
+
+Identified Domain:
+Name: Bifunctional cystathionine gamma-lyase / homocysteine desulfhydrase
+Accession: PRK07671
+Superfamily: AAT_I (Aminotransferase Class I and II family)
+
+Domain Interval: 1–377 amino acids
+E-value: 0.0
+
+Functional Description:
+The identified domain belongs to the pyridoxal phosphate (PLP)-dependent enzyme family. These enzymes catalyze reactions in sulfur amino acid metabolism, specifically the conversion of cystathionine to cysteine and homocysteine to sulfide.
+
+Biological Significance:
+Proteins in this family play a role in the reverse transsulfuration pathway and are important in bacterial sulfur metabolism.
+
+Conclusion from Domain Analysis:
+The presence of the PRK07671 conserved catalytic domain strongly confirms that the query protein functions as a cystathionine gamma-lyase/homocysteine desulfhydrase enzyme.

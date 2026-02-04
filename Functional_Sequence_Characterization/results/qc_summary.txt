@@ -1,0 +1,22 @@
+Sequence ID: WP_003229810.1
+Length: 379
+Amino Acid Composition:
+M: 11
+K: 18
+T: 32
+L: 40
+I: 26
+H: 10
+G: 38
+D: 18
+E: 27
+A: 31
+V: 26
+S: 25
+P: 14
+Y: 12
+Q: 11
+R: 15
+N: 13
+F: 11
+W: 1

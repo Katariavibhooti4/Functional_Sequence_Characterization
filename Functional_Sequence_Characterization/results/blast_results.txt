@@ -1,0 +1,46 @@
+BLAST RESULTS
+Sequence ID- WP_003298810.1
+Database used : NCBI Protein BLAST (nr database)
+Program : BLASTp
+
+Top 5 BLAST Hits:
+
+1. Protein Name: Bifunctional cystathionine gamma-lyase / homocysteine desulfhydrase
+   Organism: Bacillus
+   Accession Number: WP_003229810.1
+   Query Coverage: 100%
+   Identity: 100.00%
+   E-value: 0.0
+   Protein Length: 379 aa
+
+2. Protein Name: Bifunctional cystathionine gamma-lyase / homocysteine desulfhydrase
+   Organism: Bacillus
+   Accession Number: WP_017696065.1
+   Query Coverage: 100%
+   Identity: 99.74%
+   E-value: 0.0
+   Protein Length: 379 aa
+
+3. Protein Name: Bifunctional cystathionine gamma-lyase / homocysteine desulfhydrase
+   Organism: Bacillus subtilis
+   Accession Number: WP_128993233.1
+   Query Coverage: 100%
+   Identity: 99.74%
+   E-value: 0.0
+   Protein Length: 379 aa
+
+4. Protein Name: Bifunctional cystathionine gamma-lyase / homocysteine desulfhydrase
+   Organism: Bacillus subtilis
+   Accession Number: WP_458877365.1
+   Query Coverage: 100%
+   Identity: 99.74%
+   E-value: 0.0
+   Protein Length: 379 aa
+
+5. Protein Name: Bifunctional cystathionine gamma-lyase / homocysteine desulfhydrase
+   Organism: Bacillus subtilis
+   Accession Number: WGD57254.1
+   Query Coverage: 100%
+   Identity: 99.47%
+   E-value: 0.0
+   Protein Length: 379 aa
