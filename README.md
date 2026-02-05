@@ -1,6 +1,6 @@
-# 🔬 Functional Sequence Characterization
+# 🔬 In-Silico Analysis and Functional Prediction of a Hypothetical Protein - 
 
-# **In-silico Identification and Functional Characterization of a Hypothetical Protein using sequence analysis and homology-based annotation**  
+# **Functional Characterization of a Hypothetical Protein using sequence analysis and homology-based annotation**  
 📌 **Protein ID:** `WP_003229810.1`
 
 
